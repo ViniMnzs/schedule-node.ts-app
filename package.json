@@ -11,6 +11,7 @@
     "deploy": "git add . && git commit -m Heroku && git push heroku master",
     "typeorm": "ts-node-dev ./node_modules/typeorm/cli.js"
   },
+  "engines": { "node": "12.16.3" },
   "license": "MIT",
   "devDependencies": {
     "@types/cors": "^2.8.10",
