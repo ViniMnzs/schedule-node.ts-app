@@ -12,7 +12,7 @@ Clone este repositório do github;
 
 Abra a raiz do projeto, e digite no terminal: "yarn" ou "npm install";
 
-Após a instalação das depêndencias do projeto, basta digitar no mesmo terminal o comando: "yarn start" ou "npm run start".
+Após a instalação das depêndencias do projeto, basta digitar no mesmo terminal o comando: "yarn dev" ou "npm run dev".
 
 Obrigado pela oportunidade, espero que gostem!
 
